@@ -2,14 +2,16 @@
 
 **DEVELOPER PROFESIONAL, especializado en bots**
 
-**CM in [ZNRP]([https://github.com/](https://discord.gg/hFKSh8tzgX))**
+**CM in [ZNRP]([https://discord.gg/hFKSh8tzgX])**
 
 ---
 
 ### 🤖 Working on
 - Bots para servidores
 - Automatización y sistemas personalizados
-- **manejando redes sociales [ZNRP]([https://github.com/](https://discord.gg/hFKSh8tzgX))**
+- **manejando redes sociales [ZNRP]([https://discord.gg/hFKSh8tzgX])**
+
+###  LINK ZONA NORTE ROLEPLAY 
 
 ---
 
