@@ -12,7 +12,7 @@
 - **manejando redes sociales [ZNRP]([https://discord.gg/hFKSh8tzgX])**
 
 ###  LINK ZONA NORTE ROLEPLAY 
-
+https://discord.gg/hFKSh8tzgX
 ---
 
 ### 💻 Programming languages
