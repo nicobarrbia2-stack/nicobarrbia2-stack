@@ -2,13 +2,14 @@
 
 **DEVELOPER PROFESIONAL, especializado en bots**
 
-**Staff at [KiomboRP](https://github.com/)**
+**CM in [ZNRP]([https://github.com/](https://discord.gg/hFKSh8tzgX))**
 
 ---
 
 ### 🤖 Working on
 - Bots para servidores
 - Automatización y sistemas personalizados
+- **manejando redes sociales [ZNRP]([https://github.com/](https://discord.gg/hFKSh8tzgX))**
 
 ---
 
