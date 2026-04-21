@@ -1,7 +1,7 @@
 <h1 align="center">Nico Dev</h1>
 
 <p align="center">
-  <i>Construyendo cosas que funcionan… y algunas que rompen 😄</i>
+  <i>Construyendo cosas que funcionan… y algunas que rompen </i>
 </p>
 
 ---
