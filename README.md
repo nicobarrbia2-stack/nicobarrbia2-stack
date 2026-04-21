@@ -1,24 +1,61 @@
-# EL NICO 
+<h1 align="center">Nico Dev</h1>
 
-**DEVELOPER PROFESIONAL, especializado en bots**
-
-**CM in [ZNRP]([https://discord.gg/hFKSh8tzgX])**
+<p align="center">
+  <i>Construyendo cosas que funcionan… y algunas que rompen 😄</i>
+</p>
 
 ---
 
-### 🤖 Working on
-- Bots para servidores
-- Automatización y sistemas personalizados
-- **manejando redes sociales [ZNRP]([https://discord.gg/hFKSh8tzgX])**
+### 🧑‍💻 Sobre mí
+- 🚀 Desarrollador enfocado en backend y automatización  
+- ⚙️ Me gusta crear APIs, bots y sistemas escalables  
+- 🎮 También toco cosas relacionadas con servidores y mods  
 
-###  LINK ZONA NORTE ROLEPLAY 
-https://discord.gg/hFKSh8tzgX
 ---
 
-### 💻 Programming languages
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,lua,cpp" />
+</p>
+
+---
+
+### ⚡ Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb,docker,git" />
+</p>
+
+---
+
+### 📌 Proyectos destacados
+
+- 🔧 **API System** → Backend modular para servicios
+- 🤖 **Bots** → Automatización para Discord
+- 🌐 **Web Projects** → Sitios y plataformas web
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contacto
+
+ 
+- 💬 Discord: elcopandi 
+
+---
+
+<p align="center">
+  <i>"Code > excuses"</i>
+</p>
